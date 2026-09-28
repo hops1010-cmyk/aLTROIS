@@ -1,0 +1,6 @@
+{
+  "name": "aLTROIS // Bronx Hardcore Armory & Sonic Arsenal",
+  "description": "Official tour portal, Lyria AI music generator, 16-country tour dates, pit passes, merch armory, and crew lore for Bronx beatdown band aLTROIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
